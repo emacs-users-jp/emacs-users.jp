@@ -1,5 +1,5 @@
 ---
-title: Home
+title: emacs-users.jp
 layout: default
 ---
 
