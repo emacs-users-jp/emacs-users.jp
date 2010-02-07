@@ -41,8 +41,7 @@ TODO
 --------
 
 このサイトは [GitHub](http://github.com/emacs-users-jp/emacs-users.jp/) にて管理しています。
-GitHub のアカウントをお持ちの Emacs でサイトの構築に興味がある方は [emacs-users-jp/emacs-users.jp](http://github.com/emacs-users-jp/emacs-users.jp/) リポジトリを watch してください。
-
-なにかございましたら [Issues](http://github.com/emacs-users-jp/emacs-users.jp/issues) に要件を登録して下さい。
+GitHub にアカウントをお持ちの Emacs ユーザでこのサイトの管理に興味がある方は [emacs-users-jp/emacs-users.jp](http://github.com/emacs-users-jp/emacs-users.jp/) リポジトリを watch してください。
+また、なにか要望や意見などございましたら [Issues](http://github.com/emacs-users-jp/emacs-users.jp/issues) に要件を登録して下さい。
 
 このサイトに掲載される文章のライセンスは、特に明記が無い限りすべて CC-by でおねがいします。
