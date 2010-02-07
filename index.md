@@ -1,5 +1,5 @@
 ---
-title: emacs-users.jp
+title: emacs-users.jp - 日本の Emacs ユーザのためのハブサイト
 layout: default
 ---
 
