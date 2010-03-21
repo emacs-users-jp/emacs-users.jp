@@ -36,6 +36,7 @@ TODO
 
 - [tokyo-emacs #x01](http://wiki.livedoor.jp/harg/d/FrontPage)
 - [fukuoka-emacs #x02](http://trac.codecheck.in/share/wiki/FukuokaEmacs)
+- [kansai-emacs #x01](http://atnd.org/events/3435)
 
 そのほか
 --------
